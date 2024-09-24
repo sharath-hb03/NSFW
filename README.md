@@ -1,0 +1,1 @@
+This project uses deep learning to integrate a NSFW content detection system into a  social media platform. By employing an Xception-based model, it automatically screens and filters  out explicit images in real time, allowing only appropriate content to be shared.
