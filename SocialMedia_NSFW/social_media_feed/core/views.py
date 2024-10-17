@@ -23,7 +23,7 @@ import tensorflow as tf
 
 class LazyModel(LazyObject):
     def _setup(self):
-        self._wrapped = load_model(r'D:\Sharath\SocialMedia_NSFW\social_media_feed\Xception_NSFW_model.h5')
+        self._wrapped = load_model(r'path to your .h5 model')
  
 model = LazyModel()
 
